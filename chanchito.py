@@ -1,1 +1,1 @@
-print("chanchito de ladrillo V3")
+print("chanchito de madera V3")
